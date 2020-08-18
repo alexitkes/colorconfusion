@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ColorChoice.qml</file>
+        <file>qml/ColorConfusion.qml</file>
+        <file>qml/ColorSelector.qml</file>
+        <file>qml/ColorToGuess.qml</file>
+        <file>js/functions.js</file>
+        <file>qml/ColorSetSelection.qml</file>
+        <file>qml/HighScores.qml</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/MyIntroduction.qml</file>
+    </qresource>
+</RCC>
